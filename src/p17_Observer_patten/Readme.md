@@ -4,8 +4,7 @@
 2. 1:M 의 의존성을 가지고 있다
 
 ### 옵저버 패턴 흐름
-
-
+<img width="791" alt="스크린샷 2024-07-10 오후 2 43 24" src="https://github.com/wafflu/Study_Design_patten/assets/25775671/cd15f4c3-6272-4beb-a0f0-43a308cb7918">
 
 출처: https://inpa.tistory.com/entry/GOF-💠-옵저버Observer-패턴-제대로-배워보자 [Inpa Dev 👨‍💻:티스토리]
 
